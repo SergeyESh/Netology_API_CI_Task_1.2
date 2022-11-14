@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/owh988viqehrnkua?svg=true)](https://ci.appveyor.com/project/SergeyESh/netology-api-ci-task-1-2)
